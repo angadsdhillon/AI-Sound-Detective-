@@ -1,0 +1,16 @@
+# Placeholder for datasets directory
+# Add your training data here
+
+## Expected structure:
+## datasets/
+##   train/
+##     class1/
+##       audio1.wav
+##       audio2.wav
+##     class2/
+##       audio1.wav
+##   val/
+##     class1/
+##       audio1.wav
+##     class2/
+##       audio1.wav
